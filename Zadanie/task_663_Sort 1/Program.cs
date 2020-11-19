@@ -12,7 +12,7 @@ namespace task_663_Sort_1
             {
                 for (int i = 0; i < tests; i++)
                 {
-                   int n = int.Parse(Console.ReadLine());
+                    int n = int.Parse(Console.ReadLine());
                     List<Punkt> list = new List<Punkt>();
                     for (int j = 0; j < n; j++)
                     {
@@ -32,11 +32,6 @@ namespace task_663_Sort_1
                 }
             }
         }
-
-        public void PowiedzELO(Punkt p)
-        {
-            Console.WriteLine(p.GetNazwa());
-        }
     }
 
     public class Punkt : IComparable<Punkt>
@@ -45,7 +40,7 @@ namespace task_663_Sort_1
         public int X { get; }
         public int Y { get; }
         public double C { get; set; }
-              
+
         public Punkt(string nazwa, int x, int y)
         {
             Nazwa = nazwa;

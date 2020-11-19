@@ -44,7 +44,7 @@ namespace task_663_Sort_1
         private string Nazwa;
         public int X { get; }
         public int Y { get; }
-        public double C { get; }
+        public double C { get; set; }
               
         public Punkt(string nazwa, int x, int y)
         {

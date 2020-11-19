@@ -3,11 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30709.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_619_ReprezentacjaLiczbTypuFloat", "task_619_ReprezentacjaLiczbTypuFloat\task_619_ReprezentacjaLiczbTypuFloat.csproj", "{21BB042A-0432-4668-8F71-D03E4A1C8FBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task_619_ReprezentacjaLiczbTypuFloat", "task_619_ReprezentacjaLiczbTypuFloat\task_619_ReprezentacjaLiczbTypuFloat.csproj", "{21BB042A-0432-4668-8F71-D03E4A1C8FBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_626_Obzartuchy", "task_626_Obzartuchy\task_626_Obzartuchy.csproj", "{32DF5FB9-130D-4F49-97F8-CDBCACBC0EF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task_626_Obzartuchy", "task_626_Obzartuchy\task_626_Obzartuchy.csproj", "{32DF5FB9-130D-4F49-97F8-CDBCACBC0EF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_663_Sort 1", "task_663_Sort 1\task_663_Sort 1.csproj", "{0A3AF7BE-CBB8-41A3-9869-C4D153FDD76A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task_663_Sort 1", "task_663_Sort 1\task_663_Sort 1.csproj", "{0A3AF7BE-CBB8-41A3-9869-C4D153FDD76A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_438_LiczbyPierwsze", "task_438_LiczbyPierwsze\task_438_LiczbyPierwsze.csproj", "{10708999-7DDE-4AC7-8E6D-1C05BF22761B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_496_DwieCyfrySilni", "task_496_DwieCyfrySilni\task_496_DwieCyfrySilni.csproj", "{B0145A0D-9855-4A8C-B383-D1CB73445231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_499_CzyUmieszPotegowac", "task_499_CzyUmieszPotegowac\task_499_CzyUmieszPotegowac.csproj", "{EDFC6119-3E31-42F4-BE75-CB1EE43A238E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_506_Flamaster", "task_506_Flamaster\task_506_Flamaster.csproj", "{DE887ED5-3A28-472C-A631-E74EA87BB581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_522_Przedszkolanka", "task_522_Przedszkolanka\task_522_Przedszkolanka.csproj", "{4A6A99B7-B0AE-4320-AA22-ED2F7685D5D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +37,26 @@ Global
 		{0A3AF7BE-CBB8-41A3-9869-C4D153FDD76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A3AF7BE-CBB8-41A3-9869-C4D153FDD76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A3AF7BE-CBB8-41A3-9869-C4D153FDD76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10708999-7DDE-4AC7-8E6D-1C05BF22761B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10708999-7DDE-4AC7-8E6D-1C05BF22761B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10708999-7DDE-4AC7-8E6D-1C05BF22761B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10708999-7DDE-4AC7-8E6D-1C05BF22761B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0145A0D-9855-4A8C-B383-D1CB73445231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0145A0D-9855-4A8C-B383-D1CB73445231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0145A0D-9855-4A8C-B383-D1CB73445231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0145A0D-9855-4A8C-B383-D1CB73445231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFC6119-3E31-42F4-BE75-CB1EE43A238E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFC6119-3E31-42F4-BE75-CB1EE43A238E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFC6119-3E31-42F4-BE75-CB1EE43A238E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFC6119-3E31-42F4-BE75-CB1EE43A238E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE887ED5-3A28-472C-A631-E74EA87BB581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE887ED5-3A28-472C-A631-E74EA87BB581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE887ED5-3A28-472C-A631-E74EA87BB581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE887ED5-3A28-472C-A631-E74EA87BB581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A6A99B7-B0AE-4320-AA22-ED2F7685D5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A6A99B7-B0AE-4320-AA22-ED2F7685D5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A6A99B7-B0AE-4320-AA22-ED2F7685D5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A6A99B7-B0AE-4320-AA22-ED2F7685D5D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

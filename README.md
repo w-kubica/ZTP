@@ -1,4 +1,4 @@
-# Zaawansowane Techniki Programowania
+# ZTP - Zaawansowane Techniki Programowania
 
 Zbiór zadań realizowamych na platformie [SPOJ](https://pl.spoj.com) w ramach przedmiotu *Zaawansowane techniki programowania*:
 
